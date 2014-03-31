@@ -1,0 +1,23 @@
+// Unblockable
+// format: casual
+
+// Mana
+1 Azorius Chancery
+2 Glacial Fortress
+10 Island
+9 Plains
+
+// Creatures
+4 Blighted Agent
+4 Invisible Stalker
+4 Augur il-Vec
+4 Stoneforge Mystic
+4 Trinket Mage
+4 Tandem Lookout
+
+// Equipment
+3 Elbrus, the Binding Blade
+4 Butcher's Cleaver
+4 Silver-Inlaid Dagger
+1 Trusty Machete
+2 Mask of Avacyn
