@@ -1,0 +1,32 @@
+// Fiery Dawn
+// format: casual
+
+// Mana
+4 Infernal Plunge
+4 Clifftop Retreat
+9 Plains
+7 Mountain
+
+// Creatures
+4 Goldnight Commander
+4 Champion of the Parish
+4 Kruin Striker
+4 Doomed Traveler
+4 Pyreheart Wolf
+4 Goblin Arsonist
+
+// Sorceries
+4 Increasing Devotion
+4 Gather the Townsfolk
+4 Thatcher Revolt
+
+// Sideboard
+// 2 Riders of Gavony
+// 4 Fiend Hunter
+// 4 Oblivion Ring
+// 1 Nevermore
+
+// Tokens
+// Red Human
+// White Human
+// White Spirit
