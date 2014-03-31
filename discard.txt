@@ -1,0 +1,21 @@
+// Discard
+// format: casual
+
+// Mana
+22 Swamp
+
+// Enchantments
+4 Bloodchief Ascension
+
+// Creatures
+4 Phyrexian Obliterator
+4 Stronghold Rats
+4 Blind Zealot
+4 Vampire Interloper
+4 Highborn Ghoul
+4 Pulse Tracker
+
+// Sorceries
+4 Sign in Blood
+1 Syphon Mind
+1 Syphon Flesh
