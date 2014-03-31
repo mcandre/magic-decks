@@ -24,4 +24,4 @@
 
 // Tokens
 // Demon
-// Human
+// White Human

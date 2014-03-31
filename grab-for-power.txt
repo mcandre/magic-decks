@@ -27,4 +27,4 @@
 4 Fabricate
 
 // Tokens
-// Human
+// White Human
