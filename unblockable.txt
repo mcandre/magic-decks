@@ -16,8 +16,8 @@
 4 Tandem Lookout
 
 // Equipment
-3 Elbrus, the Binding Blade
+2 Elbrus, the Binding Blade
 4 Butcher's Cleaver
 4 Silver-Inlaid Dagger
 1 Trusty Machete
-2 Mask of Avacyn
+3 Mask of Avacyn
