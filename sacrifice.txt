@@ -1,0 +1,27 @@
+// Sacrifice
+// format: casual
+
+// Mana
+3 Orzhov Basilica
+2 Isolated Chapel
+10 Swamp
+9 Plains
+
+// Creatures
+4 Falkenrath Noble
+4 Blood Artist
+4 Skirsdag High Priest
+4 Ravenous Demon
+4 Thraben Doomsayer
+2 Selfless Cathar
+2 Falkenrath Torturer
+4 Viscera Seer
+3 Nearheath Pilgrim
+
+// Sorceries
+1 Increasing Devotion
+4 Gather the Townsfolk
+
+// Tokens
+// Demon
+// Human
