@@ -1,0 +1,19 @@
+// Burn
+// format: casual
+
+// Mana
+20 Mountain
+
+// Creatures
+4 Chandra's Spitfire
+4 Kiln Fiend
+4 Vexing Devil
+4 Cunning Sparkmage
+4 Goblin Fireslinger
+4 Grim Lavamancer
+
+// Instants
+4 Thunderous Wrath
+4 Chandra's Outrage
+4 Geistflame
+4 Lightning Bolt
