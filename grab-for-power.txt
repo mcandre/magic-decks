@@ -2,29 +2,27 @@
 // format: casual
 
 // Mana
+2 Drowned Catacomb
 2 Halimar Depths
 4 Buried Ruin
-4 Vault of Whispers
-4 Seat of the Synod
-2 Drowned Catacomb
-4 Swamp
-4 Island
+8 Swamp
+8 Island
 
 // Artifacts
-4 Throne of Empires
 4 Crown of Empires
 4 Scepter of Empires
-2 Unwinding Clock
+4 Throne of Empires
 
 // Creatures
-4 Flesh-Eater Imp
-4 Royal Assassin
-2 Jace's Archivist
 4 Merfolk Looter
 4 Tidehollow Strix
+2 Jace's Archivist
+4 Royal Assassin
+2 Darksteel Myr
+4 Flesh-Eater Imp
 
 // Sorceries
 4 Fabricate
 
 // Tokens
-// White Human
+// White Soldier

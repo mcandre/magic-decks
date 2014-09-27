@@ -13,10 +13,9 @@
 4 Skirsdag High Priest
 4 Ravenous Demon
 4 Thraben Doomsayer
-2 Selfless Cathar
-2 Falkenrath Torturer
+4 Soul's Attendant
+3 Falkenrath Torturer
 4 Viscera Seer
-3 Nearheath Pilgrim
 
 // Sorceries
 1 Increasing Devotion

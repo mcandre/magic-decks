@@ -2,8 +2,8 @@
 // format: casual
 
 // Mana
-1 Azorius Chancery
 2 Glacial Fortress
+1 Azorius Chancery
 10 Island
 9 Plains
 
@@ -16,8 +16,7 @@
 4 Tandem Lookout
 
 // Equipment
-2 Elbrus, the Binding Blade
-4 Butcher's Cleaver
 4 Silver-Inlaid Dagger
-1 Trusty Machete
-3 Mask of Avacyn
+4 Inquisitor's Flail
+4 Butcher's Cleaver
+2 Elbrus, the Binding Blade

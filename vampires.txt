@@ -1,0 +1,23 @@
+// Vampires
+// format: casual
+
+// Mana
+2 Dragonskull Summit
+10 Swamp
+8 Mountain
+
+// Enchantments
+4 Curse of Stalked Prey
+4 Dead Weight
+
+// Creatures
+4 Stromkirk Noble
+4 Pulse Tracker
+4 Shadow Alley Denizen
+4 Vampire Interloper
+4 Stromkirk Captain
+4 Captivating Vampire
+4 Vampire Nighthawk
+
+// Sorceries
+4 Arc Trail

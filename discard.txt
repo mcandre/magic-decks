@@ -2,20 +2,23 @@
 // format: casual
 
 // Mana
-22 Swamp
+2 Barren Moor
+20 Swamp
 
 // Enchantments
 4 Bloodchief Ascension
 
 // Creatures
-4 Phyrexian Obliterator
-4 Stronghold Rats
-4 Blind Zealot
-4 Vampire Interloper
 4 Highborn Ghoul
-4 Pulse Tracker
+4 Vampire Hexmage
+4 Stronghold Rats
+4 Hypnotic Specter
+4 Soulcage Fiend
+2 Phyrexian Obliterator
+
+// Instants
+4 Sorin's Thirst
 
 // Sorceries
+4 Bump in the Night
 4 Sign in Blood
-1 Syphon Mind
-1 Syphon Flesh

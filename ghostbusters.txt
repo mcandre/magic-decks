@@ -1,0 +1,29 @@
+// Ghostbusters
+// format: casual
+
+// Mana
+2 Sejiri Steppe
+1 Mystifying Maze
+17 Plains
+
+// Creatures
+4 Champion of the Parish
+2 Mikaeus, the Lunarch
+4 Doomed Traveler
+4 Accorder Paladin
+4 Elite Inquisitor
+4 Fiend Hunter
+1 Grand Abolisher
+
+// Enchantments
+4 Honor of the Pure
+4 Oblivion Ring
+
+// Sorceries
+4 Gather the Townsfolk
+4 Spare from Evil
+1 Increasing Devotion
+
+// Tokens
+// White Human
+// White Spirit

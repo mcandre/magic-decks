@@ -1,0 +1,24 @@
+// Pauper Burn
+// format: pauper
+
+// Mana
+2 Izzet Boilerworks
+2 Forgotten Cave
+2 Lonely Sandbar
+7 Mountain
+7 Island
+
+// Creatures
+4 Kiln Fiend
+4 Wee Dragonauts
+3 Spiketail Drakeling
+4 Heirs of Stromkirk
+4 Mulldrifter
+
+// Instants
+4 Lightning Bolt
+1 Counterspell
+4 Mana Leak
+4 Incinerate
+4 Thunderbolt
+4 Bone to Ash
