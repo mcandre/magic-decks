@@ -6,7 +6,7 @@
 
 // Creatures
 4 Glistener Elf
-1 Virulent Silver
+1 Virulent Sliver
 4 Ichorclaw Myr
 2 Blight Mamba
 3 Viridian Betrayers
