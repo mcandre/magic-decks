@@ -19,6 +19,6 @@
 4 Rune-Scarred Demon
 4 Evolving Wilds
 4 Terramorphic Expanse
-100 Shadowborn Apostle
-88 Swamp
+80 Shadowborn Apostle
+80 Swamp
 2 Island
