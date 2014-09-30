@@ -1,5 +1,7 @@
 // Battle of Wits
 // format: casual
+//
+// Deck box: A shoebox, ideal for shuffling
 
 // Enchantments
 4 Battle of Wits
