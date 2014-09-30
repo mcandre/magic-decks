@@ -6,7 +6,6 @@
 
 // Creatures
 4 Glistener Elf
-1 Virulent Sliver
 4 Ichorclaw Myr
 2 Blight Mamba
 3 Viridian Betrayers
@@ -14,9 +13,8 @@
 4 Phyrexian Digester
 
 // Instants
-2 Giant Growth
 4 Mutagenic Growth
-1 Mirran Mettle
+4 Unnatural Predation
 4 Apostle's Blessing
 4 Titanic Growth
 1 Predator's Strike
