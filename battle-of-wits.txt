@@ -1,0 +1,24 @@
+// Battle of Wits
+// format: casual
+
+// Enchantments
+4 Battle of Wits
+
+// Tutors
+4 Imperial Seal
+4 Vampiric Tutor
+4 Diabolic Intent
+4 Diabolic Tutor
+4 Cruel Tutor
+4 Grim Tutor
+4 Demonic Tutor
+4 Beseech the Queen
+4 Liliana Vess
+4 Increasing Ambition
+4 Demonic Collusion
+4 Rune-Scarred Demon
+4 Evolving Wilds
+4 Terramorphic Expanse
+100 Shadowborn Apostle
+88 Swamp
+2 Island
