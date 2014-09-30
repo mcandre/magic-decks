@@ -2,27 +2,26 @@
 // format: pauper
 
 // Mana
-1 Rupture Spire
-10 Swamp
-10 Plains
+8 Forest
+8 Swamp
+
+// Instants
+4 Sprout Swarm
 
 // Creatures
-4 Suture Priest
 4 Blood Seeker
 4 Deathgreeter
-3 Bloodflow Connoisseur
-3 Loxodon Partisan
-1 Blind Zealot
-4 Soulcage Fiend
-4 Sensor Splicer
-4 Squadron Hawk
-1 Doomed Traveler
+4 Mortipede
+4 Devouring Swarm
+4 Viridian Emissary
+4 Sakura-Tribe Elder
+4 Nightshade Peddler
+4 Phyrexian Rager
+4 Ambush Viper
 
-// Sorceries
-3 Gather the Townsfolk
-4 Bone Splinters
+// Equipment
+1 Sylvok Lifestaff
+3 Bonesplitter
 
 // Tokens
-// White Human
-// White Spirit
-// Golem
+// Green Saproling

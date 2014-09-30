@@ -1,0 +1,28 @@
+// Pauper Weenies
+// format: pauper
+
+// Mana
+1 Rupture Spire
+10 Swamp
+10 Plains
+
+// Creatures
+4 Suture Priest
+4 Blood Seeker
+4 Deathgreeter
+3 Bloodflow Connoisseur
+3 Loxodon Partisan
+1 Blind Zealot
+4 Soulcage Fiend
+4 Sensor Splicer
+4 Squadron Hawk
+1 Doomed Traveler
+
+// Sorceries
+3 Gather the Townsfolk
+4 Bone Splinters
+
+// Tokens
+// White Human
+// White Spirit
+// Golem
