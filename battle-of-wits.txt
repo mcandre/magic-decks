@@ -22,5 +22,7 @@
 4 Evolving Wilds
 4 Terramorphic Expanse
 80 Shadowborn Apostle
+
+// Mana
 80 Swamp
 2 Island
