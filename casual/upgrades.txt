@@ -1,0 +1,21 @@
+// Upgrades
+// format: casual
+
+// Enchantments
+4 Ooze Flux
+
+// Creatures
+4 Cloudfin Raptor
+4 Experiment One
+4 Thrummingbird
+4 Zameck Guildmage
+4 Champion of Lambholt
+4 Elusive Krasis
+4 Viral Drake
+4 Kalonian Hydra
+
+// Mana
+4 Breeding Pool
+4 Hinterland Harbor
+8 Forest
+8 Island
