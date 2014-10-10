@@ -1,4 +1,4 @@
-// Pauper Sacrifice
+// Pauper Morbid
 // format: pauper
 
 // Mana
