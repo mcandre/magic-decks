@@ -1,18 +1,21 @@
 // Upgrades
 // format: casual
 
-// Enchantments
-4 Ooze Flux
-
 // Creatures
+4 Champion of Lambholt
 4 Cloudfin Raptor
 4 Experiment One
-4 Thrummingbird
 4 Zameck Guildmage
-4 Champion of Lambholt
 4 Elusive Krasis
-4 Viral Drake
 4 Kalonian Hydra
+4 Strangleroot Geist
+
+// Enchantments
+2 Ooze Flux
+
+// Instants and Sorceries
+2 Blessings of Nature
+4 Spell Rupture
 
 // Mana
 4 Breeding Pool
