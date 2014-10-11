@@ -4,18 +4,18 @@
 // Creatures
 4 Champion of Lambholt
 4 Cloudfin Raptor
-4 Experiment One
-4 Zameck Guildmage
-4 Elusive Krasis
+4 Simic Manipulator
 4 Kalonian Hydra
-4 Strangleroot Geist
+4 Drakewing Krasis
+4 Zameck Guildmage
 
 // Enchantments
 2 Ooze Flux
+2 Bow of Nylea
 
 // Instants and Sorceries
-2 Blessings of Nature
-4 Spell Rupture
+4 Cyclonic Rift
+4 Give // Take
 
 // Mana
 4 Breeding Pool
