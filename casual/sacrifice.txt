@@ -1,5 +1,6 @@
 // Sacrifice
 // format: casual
+// legality: Modern
 
 // Mana
 3 Orzhov Basilica

@@ -1,5 +1,6 @@
 // Pauper Infect
 // format: pauper
+// legality: Pauper, Modern
 
 // Mana
 12 Forest

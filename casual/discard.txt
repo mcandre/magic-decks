@@ -1,5 +1,6 @@
 // Discard
 // format: casual
+// legality: Legacy
 
 // Mana
 2 Barren Moor

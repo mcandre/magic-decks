@@ -1,5 +1,6 @@
 // Pauper Prowess
 // format: pauper
+// legality: Pauper, Legacy
 
 // Mana
 2 Izzet Boilerworks

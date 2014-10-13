@@ -1,5 +1,6 @@
 // infect
 // format: casual
+// legality: Legacy
 
 // Mana
 4 Inkmoth Nexus

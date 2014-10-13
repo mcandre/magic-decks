@@ -1,5 +1,6 @@
 // Vampires
 // format: casual
+// legality: Modern
 
 // Mana
 2 Dragonskull Summit

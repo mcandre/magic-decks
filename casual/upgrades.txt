@@ -1,5 +1,6 @@
 // Upgrades
 // format: casual
+// legality: Modern
 
 // Creatures
 4 Champion of Lambholt

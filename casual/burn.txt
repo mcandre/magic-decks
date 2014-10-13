@@ -1,5 +1,6 @@
 // Burn
 // format: casual
+// legality: Legacy
 
 // Creatures
 

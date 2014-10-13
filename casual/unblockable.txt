@@ -1,5 +1,6 @@
 // Unblockable
 // format: casual
+// legality: Legacy
 
 // Mana
 2 Glacial Fortress

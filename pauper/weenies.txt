@@ -1,5 +1,6 @@
 // Pauper Weenies
 // format: pauper
+// legality: Pauper, Modern
 
 // Mana
 1 Rupture Spire
