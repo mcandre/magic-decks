@@ -1,0 +1,6 @@
+// infect
+// format: freeform
+// legality: Freeform
+
+// Creatures
+40 Chancellor of the Dross
