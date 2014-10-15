@@ -1,0 +1,97 @@
+// Kaalia
+// format: casual
+// legality: Commander
+
+// Commander
+Kaalia of the Vast
+
+// Mana
+Command Tower
+Homeward Path
+Cavern of Souls
+Vault of the Archangel
+Sejiri Steppe
+Barren Moor
+Forgotten Cave
+Secluded Steppe
+Sol Ring
+9 Swamp
+9 Mountain
+9 Plains
+
+// Angels, Demons, and Dragons
+Hellkite Charger
+Dragon Mage
+Gisela, Blade of Goldnight
+Avacyn, Angel of Hope
+Griselbrand
+Rune-Scarred Demon
+Bloodgift Demon
+Aegis Angel
+Hoarding Dragon
+Rakdos the Defiler
+Deathless Angel
+Iona, Shield of Emeria
+Carnifex Demon
+Akroma, Angel of Fury
+Balefire Dragon
+Skithiryx, the Blight Dragon
+Tariel, Reckoner of Souls
+Angel of Despair
+Moltensteel Dragon
+Emancipation Angel
+Herald of War
+Malfegor
+Archangel of Strife
+Restoration Angel
+Oros, the Avenger
+Bladewing the Risen
+Thunder Dragon
+Reya Dawnbringer
+Angelic Arbiter
+Steel Hellkite
+Basandra, Battle Seraph
+Admonition Angel
+Mana-Charged Dragon
+Moonveil Dragon
+Demon of Death's Gate
+Archwing Dragon
+Hoard-Smelter Dragon
+Oni of Wild Places
+Volcanic Dragon
+Flameblast Dragon
+Ancient Hellkite
+Mordant Dragon
+Stronghold Overseer
+
+// Supporting Creatures
+Mother of Runes
+Goblin Tunneler
+
+// Artifacts
+Quicksilver Amulet
+Mimic Vat
+Helvault
+
+// Equipment
+Swiftfoot Boots
+Lightning Greaves
+Whispersilk Cloak
+Grafted Exoskeleton
+Trailblazer's Boots
+
+// Auras
+Breath of Fury
+Spirit Mantle
+Phyresis
+
+// Instants
+Bathe in Light
+Apostle's Blessing
+Narrow Escape
+Condemn
+
+// Sorceries
+World at War
+Reforge the Soul
+Increasing Ambition
