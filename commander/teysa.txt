@@ -1,0 +1,112 @@
+// Teysa
+// format: casual
+// legality: Commander
+
+// Commander
+Teysa, Orzhov Scion
+
+// Mana
+Command Tower
+Homeward Path
+Darksteel Ingot
+Marsh Flats
+Isolated Chaptel
+Vault of the Archangel
+Ashnod's Altar
+Phyrexian Altar
+15 Swamp
+15 Plains
+Barren Moor
+Secluded Steppe
+
+// Artifacts
+Lifeline
+Blasting Station
+Orochi Hatchery
+Phyrexian Processor
+Throne of Empires
+Acorn Catapult
+Druidic Satchel
+
+// Equipment
+Skullclamp
+Moonsilver Spear
+
+// Enchantments
+Bitterblossom
+Mobilization
+Grave Pact
+Attrition
+Martyr's Bond
+Luminarch Ascension
+Malevolent Awakening
+Darkest Hour
+Intangible Virtue
+Phyrexian Arena
+
+// Auras
+
+// Instants
+Return to Dust
+
+// Sorceries
+Army of the Damned
+Conqueror's Pledge
+Increasing Devotion
+Entreat the Angels
+Nomads' Assembly
+Storm Herd
+Replenish
+Demonic Collusion
+Dread Return
+Beacon of Unrest
+
+// Creatures
+Pentavus
+Requiem Angel
+Falkenrath Noble
+Butcher of Malakir
+Vish Kal, Blood Arbiter
+Viscera Seer
+Phyrexian Plaguelord
+Devouring Swarm
+Stormfront Riders
+Archon of Justice
+Whitemane Lion
+Rune-Scarred Demon
+Stonecloaker
+Darien, King of Kjeldor
+Skirsdag High Priest
+Bloodflow Connoisseur
+Devouring Strossus
+Hero of Bladehold
+Flesh-Eater Imp
+Goldnight Redeemer
+Carrion Feeder
+Grave Titan
+World Queller
+Fallen Angel
+Cloudgoat Ranger
+Dark Impostor
+Auramancer
+Restoration Angel
+Bloodgift Demon
+
+// Tokens
+// Pentavite
+// Demon
+// Angel
+// Spirit
+// Pegasus
+// Faerie Rogue
+// Bat
+// Minion
+// Zombie
+// Cat
+// Soldier
+// Snake
+// Saproling
+// Kor Soldier
+// Human
+// Kithkin Soldier
+// Squirrel
