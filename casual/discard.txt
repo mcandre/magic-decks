@@ -11,7 +11,7 @@
 
 // Creatures
 4 Highborn Ghoul
-4 Vampire Hexmage
+4 Vampire Interloper
 4 Stronghold Rats
 4 Hypnotic Specter
 4 Soulcage Fiend
