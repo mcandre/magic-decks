@@ -20,10 +20,22 @@
 4 Increasing Ambition
 4 Demonic Collusion
 4 Rune-Scarred Demon
+80 Shadowborn Apostle
+4 Viscera Seer
+4 Temple Bell
+4 Sigiled Starfish
 4 Evolving Wilds
 4 Terramorphic Expanse
-94 Shadowborn Apostle
+4 Ghost Quarter
+4 Polluted Delta
+4 Temple of Deceit
 
 // Mana
-94 Swamp
-2 Island
+4 Tainted Isle
+4 Drowned Catacomb
+4 Underground River
+4 Underground Sea
+4 Watery Grave
+4 Dimir Guildgate
+52 Swamp
+10 Island
