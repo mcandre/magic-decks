@@ -2,6 +2,7 @@
 // format: casual
 //
 // Deck box: A shoebox, ideal for shuffling
+// 250 sleeves
 
 // Enchantments
 4 Battle of Wits
@@ -21,8 +22,8 @@
 4 Rune-Scarred Demon
 4 Evolving Wilds
 4 Terramorphic Expanse
-80 Shadowborn Apostle
+94 Shadowborn Apostle
 
 // Mana
-80 Swamp
+94 Swamp
 2 Island
