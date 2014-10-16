@@ -15,7 +15,7 @@
 4 Throne of Empires
 
 // Creatures
-4 Merfolk Looter
+4 Sigiled Starfish
 4 Tidehollow Strix
 2 Jace's Archivist
 4 Royal Assassin
