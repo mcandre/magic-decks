@@ -1,47 +1,27 @@
 // Battle of Wits
 // format: casual
-//
-// Deck box: A shoebox, ideal for shuffling
-// 240 sleeves
+// legality: Legacy
 
-// Win Cons
+// Wins
 4 Battle of Wits
+4 Rune-Scarred Demon
 4 Jace, Memory Adept
+4 Liliana Vess
 
 // Tutors
 4 Gifts Ungiven
-4 Demonic Collusion
-4 Liliana Vess
-4 Increasing Ambition
-4 Rune-Scarred Demon
-4 Brainspoil
-4 Diabolic Intent
 4 Diabolic Tutor
-4 Cruel Tutor
-4 Grim Tutor
-4 Demonic Tutor
-4 Insidious Dreams
-4 Vampiric Tutor
+4 Brainspoil
+80 Shadowborn Apostle
 
-// 2nd-level Tutors
-4 Perplex
-4 Dimir House Guard
-4 Dimir Infiltrator
-4 Dimir Machinations
-4 Drift of Phantasms
-4 Muddle the Mixture
-4 Shred Memory
-
-// Card draw, scry
-4 Tainted Pact
-4 Distant Memories
+// Card draw
 4 Temple Bell
+4 Lore Broker
 4 Reckless Scholar
 4 Azure Mage
+4 Distant Memories
 4 Sigiled Starfish
-4 Lore Broker
 4 Merfolk Looter
-4 Augur of Bolas
 4 Forbidden Alchemy
 4 Amass the Components
 4 Ponder
@@ -52,12 +32,9 @@
 // Mana sources
 2 Armillary Sphere
 2 Gem of Becoming
-4 Solemn Simulacrum
 4 Spectral Searchlight
 4 Vessel of Endless Rest
-4 Temple of Deceit
 4 Dimir Aqueduct
-4 Tainted Isle
 4 City of Brass
 4 Underground River
 4 Watery Grave
