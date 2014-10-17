@@ -18,16 +18,12 @@
 4 Temple Bell
 4 Lore Broker
 4 Reckless Scholar
-4 Azure Mage
-4 Distant Memories
 4 Sigiled Starfish
-4 Merfolk Looter
 4 Forbidden Alchemy
 4 Amass the Components
 4 Ponder
 4 Augury Owl
 4 Sage Owl
-4 Think Twice
 
 // Mana sources
 2 Armillary Sphere
@@ -35,11 +31,10 @@
 4 Spectral Searchlight
 4 Vessel of Endless Rest
 4 Dimir Aqueduct
-4 City of Brass
 4 Underground River
 4 Watery Grave
 4 Salt Marsh
 4 Polluted Delta
 4 Ghost Quarter
-20 Swamp
-20 Island
+41 Swamp
+19 Island
