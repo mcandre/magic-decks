@@ -26,8 +26,7 @@
 4 Sage Owl
 
 // Mana sources
-2 Armillary Sphere
-2 Gem of Becoming
+4 Armillary Sphere
 4 Spectral Searchlight
 4 Vessel of Endless Rest
 4 Dimir Aqueduct
