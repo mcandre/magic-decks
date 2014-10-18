@@ -4,10 +4,11 @@
 
 // Creatures
 4 Champion of Lambholt
+2 Vorel of the Hull Clade
+2 Nimbus Swimmer
+4 Elusive Krasis
 4 Cloudfin Raptor
-4 Simic Manipulator
 4 Kalonian Hydra
-4 Drakewing Krasis
 4 Zameck Guildmage
 
 // Enchantments
