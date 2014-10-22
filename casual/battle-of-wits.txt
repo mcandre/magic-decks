@@ -35,5 +35,5 @@
 4 Salt Marsh
 4 Polluted Delta
 4 Ghost Quarter
-41 Swamp
-19 Island
+30 Swamp
+30 Island
