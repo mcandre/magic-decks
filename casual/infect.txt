@@ -4,8 +4,7 @@
 
 // Mana
 4 Inkmoth Nexus
-4 Peat Bog
-8 Swamp
+12 Swamp
 4 Dark Ritual
 4 Plague Myr
 
@@ -13,16 +12,15 @@
 4 Hand of the Praetors
 4 Ichor Rats
 4 Plague Stinger
-4 Ichorclaw Myr
+4 Phyrexian Crusader
+
+// Enchantments
+4 Bad Moon
 
 // Instants
 4 Virulent Wound
 4 Mutagenic Growth
-4 Vampire's Bite
 4 Apostle's Blessing
 
 // Sorceries
 4 Reanimate
-
-// Tokens
-// 6 Poison Counter
