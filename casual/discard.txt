@@ -10,15 +10,13 @@
 4 Bloodchief Ascension
 
 // Creatures
+4 Pulse Tracker
 4 Highborn Ghoul
 4 Vampire Interloper
 4 Stronghold Rats
 4 Hypnotic Specter
 4 Soulcage Fiend
 2 Phyrexian Obliterator
-
-// Instants
-4 Sorin's Thirst
 
 // Sorceries
 4 Bump in the Night
