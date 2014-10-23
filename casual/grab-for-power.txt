@@ -1,6 +1,6 @@
 // Grab for Power
 // format: casual
-// legality: Modern
+// legality: Legacy
 
 // Mana
 2 Drowned Catacomb
