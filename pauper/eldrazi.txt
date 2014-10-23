@@ -1,0 +1,19 @@
+// Pauper Eldrazi
+// Format: pauper
+// Legality: Pauper, Legacy
+
+// Mana
+24 Island
+
+// Instants and Sorceries
+4 Gitaxian Probe
+4 Condescend
+4 Counterspell
+4 Mana Leak
+4 Unsummon
+4 Repeal
+4 Preordain
+4 Ponder
+
+// Creatures
+4 Ulamog's Crusher
