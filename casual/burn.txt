@@ -3,7 +3,6 @@
 // legality: Legacy
 
 // Creatures
-
 4 Vexing Devil
 4 Grim Lavamancer
 4 Eidolon of the Great Revel
