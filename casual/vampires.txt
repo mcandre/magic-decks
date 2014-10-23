@@ -9,7 +9,7 @@
 
 // Enchantments
 4 Curse of Stalked Prey
-4 Dead Weight
+4 Terminate
 
 // Creatures
 4 Stromkirk Noble
