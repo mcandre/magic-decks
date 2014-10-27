@@ -1,0 +1,23 @@
+// Argentum
+// format: casual
+// Legality: Modern
+
+// Enchantments
+4 Quest for the Holy Relic
+
+// Creatures
+4 Squadron Hawk
+4 Suture Priest
+4 Ornithopter
+4 Memnite
+4 Signal Pest
+4 Doomed Traveller
+4 Selfless Cathar
+4 Glint Hawk
+4 Judge's Familiar
+
+// Equipment
+2 Argentum Armor
+
+// Mana
+18 Plains
