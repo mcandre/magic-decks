@@ -9,7 +9,7 @@
 4 Deathrite Shaman
 4 Pulse Tracker
 4 Hypnotic Specter
-4 Stronghold Rats
+4 Blind Zealot
 4 Vampire Interloper
 
 // Instants and Sorceries
