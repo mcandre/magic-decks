@@ -2,22 +2,21 @@
 // format: casual
 // legality: Legacy
 
-// Mana
-2 Barren Moor
-20 Swamp
-
 // Enchantments
 4 Bloodchief Ascension
 
 // Creatures
+4 Deathrite Shaman
 4 Pulse Tracker
-4 Highborn Ghoul
-4 Vampire Interloper
-4 Stronghold Rats
 4 Hypnotic Specter
-4 Soulcage Fiend
-2 Phyrexian Obliterator
+4 Stronghold Rats
+4 Vampire Interloper
 
-// Sorceries
+// Instants and Sorceries
 4 Bump in the Night
 4 Sign in Blood
+4 Thoughtseize
+4 Duress
+
+// Mana
+20 Swamp
