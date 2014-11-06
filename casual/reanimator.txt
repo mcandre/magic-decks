@@ -6,26 +6,26 @@
 3 Angel of Serenity
 3 Thragtusk
 3 Loxodon Smiter
-3 Rhox Faithmender
 
 // Enchantments
-4 Nevermore
-4 Oblivion Ring
+3 Nevermore
+3 Oblivion Ring
 2 Curse of Death's Hold
 
 // Instants and Sorceries
 4 Mulch
 3 Unburial Rites
-3 Lingering Souls
+4 Lingering Souls
 
 // Mana
 4 Birds of Paradise
 4 Arbor Elf
+4 Sandsteppe Citadel
 4 Overgrown Tomb
 4 Temple Garden
 4 Godless Shrine
 8 Forest
 
 // Tokens
-// Spirit
-// Beast
+// 1/1 White Flying Spirit
+// 3/3 Green Beast
