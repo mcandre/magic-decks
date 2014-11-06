@@ -1,4 +1,4 @@
-// Reanimator
+// Control
 // format: casual
 // legality: Modern
 
