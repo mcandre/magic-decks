@@ -4,18 +4,18 @@
 
 // Creatures
 3 Angel of Serenity
-3 Thragtusk
-3 Loxodon Smiter
+2 Thragtusk
+4 Loxodon Smiter
 
 // Enchantments
-3 Nevermore
+4 Nevermore
 3 Oblivion Ring
 2 Curse of Death's Hold
 
 // Instants and Sorceries
 4 Mulch
 3 Unburial Rites
-4 Lingering Souls
+3 Lingering Souls
 
 // Mana
 4 Birds of Paradise
