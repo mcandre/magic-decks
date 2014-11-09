@@ -18,7 +18,7 @@
 
 // Creatures
 4 Sigiled Starfish
-4 Tidehollow Strix
+4 Baleful Strix
 2 Jace's Archivist
 4 Royal Assassin
 2 Darksteel Myr
