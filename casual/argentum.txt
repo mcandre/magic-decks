@@ -11,7 +11,7 @@
 4 Ornithopter
 4 Memnite
 4 Signal Pest
-4 Doomed Traveller
+4 Doomed Traveler
 4 Selfless Cathar
 4 Glint Hawk
 4 Judge's Familiar
