@@ -22,3 +22,7 @@
 // Mana
 1 Ghost Quarter
 20 Island
+
+// Tokens
+// 1/1 Blue Homunculus
+// 3/3 Green Ape
