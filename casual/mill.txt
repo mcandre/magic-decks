@@ -3,25 +3,22 @@
 // legality: Modern
 
 // Creatures
-4 Doorkeeper
 4 Fog Bank
 4 Hover Barrier
 4 Sage's Row Denizen
 4 Selhoff Occultist
 4 Stitcher's Apprentice
-2 Nephalia Smuggler
 
 // Artifacts
-3 Mesmeric Orb
+4 Mesmeric Orb
 
 // Instants and Sorceries
+4 Counterspell
 4 Cyclonic Rift
 4 Pongify
-2 Tormod's Crypt
 
 // Mana
-1 Ghost Quarter
-20 Island
+24 Island
 
 // Tokens
 // 1/1 Blue Homunculus
