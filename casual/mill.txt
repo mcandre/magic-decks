@@ -1,6 +1,6 @@
 // Mill
 // format: casual
-// legality: Modern
+// legality: Legacy
 
 // Creatures
 4 Fog Bank
