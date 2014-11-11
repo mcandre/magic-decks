@@ -1,4 +1,4 @@
-// Mill
+s// Mill
 // format: casual
 // legality: Legacy
 
@@ -15,7 +15,7 @@
 // Instants and Sorceries
 4 Counterspell
 4 Cyclonic Rift
-4 Pongify
+4 Unsummon
 2 Vanishment
 
 // Mana
@@ -23,4 +23,3 @@
 
 // Tokens
 // 1/1 Blue Homunculus
-// 3/3 Green Ape
