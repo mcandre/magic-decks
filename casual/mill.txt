@@ -1,4 +1,4 @@
-s// Mill
+// Mill
 // format: casual
 // legality: Legacy
 
