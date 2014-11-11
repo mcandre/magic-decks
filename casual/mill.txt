@@ -3,23 +3,24 @@
 // legality: Legacy
 
 // Creatures
-4 Fog Bank
-4 Hover Barrier
 4 Sage's Row Denizen
-4 Selhoff Occultist
 4 Stitcher's Apprentice
+4 Hedron Crab
+3 Fog Bank
+3 Hover Barrier
 
 // Artifacts
 4 Mesmeric Orb
 
 // Instants and Sorceries
 4 Counterspell
+4 Negate
 4 Cyclonic Rift
 4 Unsummon
-2 Vanishment
 
 // Mana
-22 Island
+2 Ghost Quarter
+20 Island
 
 // Tokens
 // 1/1 Blue Homunculus
