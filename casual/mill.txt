@@ -16,9 +16,10 @@
 4 Counterspell
 4 Cyclonic Rift
 4 Pongify
+2 Vanishment
 
 // Mana
-24 Island
+22 Island
 
 // Tokens
 // 1/1 Blue Homunculus
