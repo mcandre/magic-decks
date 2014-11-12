@@ -13,7 +13,7 @@
 4 Chain Lightning
 4 Lava Spike
 4 Rift Bolt
-4 Magma Jet
+4 Incinerate
 2 Thunderous Wrath
 2 Slagstorm
 
