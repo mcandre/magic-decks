@@ -6,8 +6,7 @@
 4 Sage's Row Denizen
 4 Stitcher's Apprentice
 4 Hedron Crab
-3 Fog Bank
-3 Hover Barrier
+4 Fog Bank
 
 // Artifacts
 4 Mesmeric Orb
@@ -19,8 +18,7 @@
 4 Unsummon
 
 // Mana
-2 Ghost Quarter
-20 Island
+24 Island
 
 // Tokens
 // 1/1 Blue Homunculus
