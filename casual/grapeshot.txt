@@ -1,0 +1,29 @@
+// Grapeshot
+// format: casual
+// legality: Modern
+
+// Copy
+2 Grapeshot
+4 Pyromancer Ascension
+3 Past in Flames
+
+// Cantrip
+4 Gitaxian Probe
+4 Sleight of Hand
+4 Serum Visions
+4 Thought Scour
+4 Manamorphose
+3 Desperate Ravings
+
+// Mana
+4 Goblin Electromancer
+4 Pyretic Ritual
+4 Desperate Ritual
+
+// Lands
+4 Scalding Tarn
+3 Misty Rainforest
+3 Shivan Reef
+2 Steam Vents
+3 Island
+1 Mountain
