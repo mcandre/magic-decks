@@ -1,0 +1,28 @@
+// Killer Bees
+// format: casual
+// legality: Modern
+
+// Creatures
+4 Hornet Nest
+4 Cunning Sparkmage
+4 Sakura-Tribe Elder
+4 Adaptive Automaton
+
+// Enchantments
+4 Pyrohemia
+
+// Instants and Sorceries
+4 Magma Jet
+4 Lightning Bolt
+4 Mulch
+4 Noxious Revival
+
+// Mana
+4 Stomping Ground
+4 Rootbound Crag
+4 Temple of Abandon
+6 Forest
+6 Mountain
+
+// Tokens
+// 1/1 Green Deathtouch Insect

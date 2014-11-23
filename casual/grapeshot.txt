@@ -9,7 +9,7 @@
 
 // Cantrip
 4 Gitaxian Probe
-4 Sleight of Hand
+4 Preordain
 4 Serum Visions
 4 Thought Scour
 4 Manamorphose
