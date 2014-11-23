@@ -18,7 +18,7 @@
 // Mana
 4 Goblin Electromancer
 4 Pyretic Ritual
-4 Desperate Ritual
+4 Rite of Flame
 
 // Lands
 4 Scalding Tarn
