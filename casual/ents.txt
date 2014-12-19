@@ -1,0 +1,24 @@
+// Ents
+// format: casual
+// legality: Modern
+
+// Mana
+4 Bosk Banneret
+20 Forest
+
+// Auras
+4 Lignify
+
+// Enchantments
+4 Raking Canopy
+
+// Creatures
+4 Leaf-Crowned Elder
+4 Dauntless Dourbark
+4 Timber Protector
+4 Chameleon Colossus
+4 Wickerbough Elder
+4 Treefolk Harbinger
+
+// Instants
+4 Sheltering Word
