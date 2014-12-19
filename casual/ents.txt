@@ -1,6 +1,6 @@
 // Ents
 // format: casual
-// legality: Modern
+// legality: Tribal, Modern
 
 // Mana
 4 Bosk Banneret

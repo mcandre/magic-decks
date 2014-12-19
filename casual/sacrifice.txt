@@ -1,6 +1,6 @@
 // Sacrifice
 // format: casual
-// legality: Modern
+// legality: Tribal, Modern
 
 // Mana
 3 Orzhov Basilica
