@@ -1,6 +1,6 @@
 // Upgrades
 // format: casual
-// legality: Modern
+// legality: Modern, Standard(Innistrad - Return to Ravnica)
 
 // Creatures
 4 Champion of Lambholt

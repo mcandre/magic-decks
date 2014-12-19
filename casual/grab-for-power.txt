@@ -1,6 +1,6 @@
 // Grab for Power
 // format: casual
-// legality: Legacy
+// legality: Legacy, Standard (Scars of Mirrodin)
 
 // Mana
 2 Drowned Catacomb

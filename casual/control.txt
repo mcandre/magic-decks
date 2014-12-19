@@ -1,6 +1,6 @@
 // Control
 // format: casual
-// legality: Modern
+// legality: Modern, Standard(Innistrad - Return to Ravnica)
 
 // Creatures
 3 Angel of Serenity

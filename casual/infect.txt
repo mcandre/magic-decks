@@ -1,6 +1,6 @@
 // infect
 // format: casual
-// legality: Legacy, Star, Two-Headed Giant
+// legality: Legacy, Star, Two-Headed Giant, Standard(Scars of Mirrodin)
 
 // Mana
 4 Inkmoth Nexus

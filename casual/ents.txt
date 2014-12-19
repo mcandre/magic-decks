@@ -1,6 +1,6 @@
 // Ents
 // format: casual
-// legality: Tribal, Modern, Star
+// legality: Tribal, Modern, Star, Standard(Lorwyn)
 
 // Mana
 4 Bosk Banneret

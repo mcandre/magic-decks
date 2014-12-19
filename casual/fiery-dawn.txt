@@ -1,6 +1,6 @@
 // Fiery Dawn
 // format: casual
-// legality: Tribal, Modern
+// legality: Tribal, Modern, Standard(Innistrad)
 
 // Mana
 4 Infernal Plunge

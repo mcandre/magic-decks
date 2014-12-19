@@ -1,6 +1,6 @@
 // Pauper Infect
 // format: pauper
-// legality: Pauper, Modern, Star
+// legality: Pauper, Modern, Star, Standard(Scars of Mirrodin)
 
 // Mana
 12 Forest

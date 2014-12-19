@@ -1,6 +1,6 @@
 // Vampires
 // format: casual
-// legality: Tribal, Modern
+// legality: Tribal, Modern, Standard(Innistrad)
 
 // Mana
 2 Dragonskull Summit
