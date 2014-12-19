@@ -1,6 +1,6 @@
 // infect
 // format: casual
-// legality: Legacy
+// legality: Legacy, Star, Two-Headed Giant
 
 // Mana
 4 Inkmoth Nexus

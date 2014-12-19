@@ -1,6 +1,6 @@
 // Pauper Eldrazi
 // Format: pauper
-// Legality: Pauper, Legacy, Tribal
+// Legality: Pauper, Legacy, Tribal, Star
 
 // Mana
 24 Island

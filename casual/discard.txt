@@ -1,6 +1,6 @@
 // Discard
 // format: casual
-// legality: Legacy
+// legality: Legacy, Star
 
 // Enchantments
 4 Bloodchief Ascension

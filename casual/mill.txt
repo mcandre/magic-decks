@@ -1,6 +1,6 @@
 // Mill
 // format: casual
-// legality: Legacy
+// legality: Legacy, Star
 
 // Creatures
 4 Sage's Row Denizen

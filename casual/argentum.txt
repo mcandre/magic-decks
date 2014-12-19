@@ -1,6 +1,6 @@
 // Argentum
 // format: casual
-// Legality: Modern
+// Legality: Modern, Star
 
 // Enchantments
 4 Quest for the Holy Relic

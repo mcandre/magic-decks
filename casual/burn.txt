@@ -1,6 +1,6 @@
 // Burn
 // format: casual
-// legality: Legacy
+// legality: Legacy, Star
 
 // Creatures
 4 Vexing Devil
