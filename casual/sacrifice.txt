@@ -1,6 +1,6 @@
 // Sacrifice
 // format: casual
-// legality: Tribal, Modern, Standard(Innistrad)
+// legality: Tribal(Humans), Modern, Standard(Innistrad)
 
 // Mana
 3 Orzhov Basilica

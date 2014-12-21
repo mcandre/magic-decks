@@ -1,6 +1,6 @@
 // Ghostbusters
 // format: casual
-// legality: Tribal, Modern, Star, Standard(Innistrad)
+// legality: Tribal(Human), Modern, Star, Standard(Innistrad)
 
 // Mana
 2 Sejiri Steppe

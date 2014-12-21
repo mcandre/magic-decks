@@ -1,6 +1,6 @@
 // Kaalia
 // format: casual
-// legality: Commander, Tribal
+// legality: Commander, Tribal(Angels, Demons, Dragons)
 
 // Commander
 Kaalia of the Vast

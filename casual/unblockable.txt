@@ -1,6 +1,6 @@
 // Unblockable
 // format: casual
-// legality: Tribal, Legacy
+// legality: Tribal(Humans), Legacy
 
 // Mana
 2 Glacial Fortress
