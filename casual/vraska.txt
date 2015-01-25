@@ -7,16 +7,15 @@
 
 // Enchantments
 4 Break Through the Line
-3 Asceticism
 
 // Creatues
-3 Hornet Nest
-3 Mad Prophet
+4 Royal Assassin
+4 Mad Prophet
 
 // Instants and Sorceries
+4 Diabolic Tutor
 4 Volt Charge
 4 Faithless Looting
-3 Terrifying Presence
 
 // Mana
 4 Birds of Paradise
