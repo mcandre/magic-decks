@@ -1,31 +1,30 @@
 // Vraska
 // format: casual
-// legality: Modern
+// legality: Legacy
 
 // Planeswalkers
 4 Vraska the Unseen
 
 // Enchantments
-4 Break Through the Line
+4 Doubling Season
+4 Thassa, God of the Sea
 
-// Creatues
+// Creatures
+4 Sigiled Starfish
+4 Baleful Strix
 4 Royal Assassin
-4 Mad Prophet
 
 // Instants and Sorceries
 4 Diabolic Tutor
-4 Volt Charge
-4 Faithless Looting
+4 Simic Charm
 
 // Mana
 4 Birds of Paradise
 4 Arbor Elf
-2 Woodland Cemetery
-2 Rootbound Crag
 4 Overgrown Tomb
-4 Stomping Ground
-4 Blood Crypt
+4 Watery Grave
+4 Breeding Pool
 8 Forest
 
 // Tokens
-// 1/1 Black Assassin
+// 3 1/1 Black Assassin
