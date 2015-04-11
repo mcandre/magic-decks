@@ -1,0 +1,21 @@
+// DOS Attack
+// format: casual
+
+// Denial
+4 Oblivion Ring
+4 Fiend Hunter
+4 Leonin Relic-Warder
+4 Thoughtweft Trio
+4 Changeling Hero
+4 Phyrexian Metamorph
+
+// Defense
+4 Suture Priest
+4 Soul's Attendant
+
+// Tutor
+4 Idyllic Tutor
+
+// Mana
+4 New Benalia
+20 Plains
