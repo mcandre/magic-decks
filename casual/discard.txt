@@ -1,24 +1,25 @@
 // Discard
 // format: casual
-// legality: Legacy, Star
+// legality: Modern, Star
 
 // Enchantments
 4 Bloodchief Ascension
 
 // Creatures
-4 Deathrite Shaman
+4 Shimian Specter
 4 Hypnotic Specter
-4 Stronghold Rats
-4 Vampire Interloper
+4 Chittering Rats
+4 Cemetery Reaper
 
 // Instants and Sorceries
-4 Tribute to Hunger
+4 Thoughtseize
+4 Duress
+4 Doom Blade
 4 Smallpox
 4 Sign in Blood
-4 Thoughtseize
-4 Bump in the Night
+
+// Tokens
+Zombie token card
 
 // Mana
-12 Swamp
-4 Overgrown Tomb
-4 Savage Lands
+20 Swamp
