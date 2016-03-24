@@ -1,0 +1,13 @@
+// There's Treasure Everywhere!
+// format: casual
+// legality: Modern
+
+// Enchantments
+2 Zombie Infestation
+
+// Instants and Sorceries
+4 Treasure Hunt
+
+// Mana
+27 Swamp
+27 Island
