@@ -1,4 +1,4 @@
-// There's Treasure Everywhere!
+// Mall Cop
 // format: casual
 // legality: Modern
 
